@@ -1,0 +1,7 @@
+crewai==0.130.0
+fastapi==0.110.3
+openai
+langchain-openai
+python-dotenv
+uvicorn
+PyPDF2
